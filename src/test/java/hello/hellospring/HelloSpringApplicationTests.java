@@ -10,4 +10,9 @@ class HelloSpringApplicationTests {
 	void contextLoads() {
 	}
 
+	@Test
+	void print(){
+		System.out.println("test1");
+	}
+
 }
